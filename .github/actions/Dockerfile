@@ -8,6 +8,7 @@ RUN apt-get install -y --no-install-recommends \
     lmodern \
     texlive \
     texlive-latex-extra \
+    texlive-extra-utils \
     texlive-lang-japanese \
   && rm -rf /var/lib/apt/lists/*
 
