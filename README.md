@@ -16,5 +16,7 @@
 
 これは、微力ながらも彼を応援するために私が認めた怪文書である。
 
-彼が実験最高主義者に痛棒を食らわす手伝いになってくれれば幸いである。
+この文書が、彼が実験最高主義者に痛棒を食らわす手伝いになっていれば幸いである。
+
+PDFは右側の[Releases](https://github.com/tannakaken/causal_mindmodel_for_science_education/releases)からダウンロードできる。
 
